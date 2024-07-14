@@ -2,7 +2,7 @@
 
 CosmicPings is a mod that will function similarly to pings on old Cosmic Client but with some cool new features! VIew details and how to utilize the mod below.
 
-## ✅ Features
+## ✅ Features (click links to see pictures)
 
 - [**Alliance Pings**](https://imgur.com/QXInJbm)
 - [**Truce Pings**](https://imgur.com/pKGt4bN)
@@ -20,4 +20,4 @@ CosmicPings is a mod that will function similarly to pings on old Cosmic Client 
 - Go into Lunar Settings -> Performance and disable `HUD Caching`
 - Select keybind(s) in your Minecraft controls setting
 
-### <:verified:1256072585616167102>  CosmicPings has been approved for use by Cosmic Administration.
+CosmicPings has been approved for use by Cosmic Administration.
